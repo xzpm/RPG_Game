@@ -11,4 +11,4 @@ Study with M_Studio RPG Course
 * 将该项目下载到本地，将ProjectSettings和Assets放在同一文件夹下
 * 该项目使用的是Unity 2020.3版本进行的开发在UnityHub中找到文件夹并打开
 * 在项目中安装Universal RP包以及Cinemachine包
-* Edit → ProjectSettings → Graphics里面将渲染管线替换为文件夹中的Universal Render Pipeline就可以进行又游玩了
+* Edit → ProjectSettings → Graphics里面将渲染管线替换为文件夹中的Universal Render Pipeline就可以进行游玩了
